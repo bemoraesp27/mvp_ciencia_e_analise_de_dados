@@ -54,7 +54,7 @@ Teste de Hipóteses
 - Teste de Proporções (z-test)
 - Regressão Logística
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/seuusuario/seurepo/blob/main/seu_notebook.ipynb](https://colab.research.google.com/drive/1WElman4Dgb5CHQfi9mvlYZ0iYWsaeR9D?usp=sharing))
+Link para o notebook no Colab: https://colab.research.google.com/drive/1WElman4Dgb5CHQfi9mvlYZ0iYWsaeR9D?usp=sharing
 
 
 
