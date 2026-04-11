@@ -54,7 +54,7 @@ Teste de Hipóteses
 - Teste de Proporções (z-test)
 - Regressão Logística
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bemoraesp27/mvp_ciencia_e_analise_de_dados/blob/main/mvp_acidentes.ipynb)
+[![Abrir no Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1WElman4Dgb5CHQfi9mvlYZ0iYWsaeR9D?usp=sharing))]
 
 
 
