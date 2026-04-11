@@ -52,7 +52,11 @@ Pré Processamento de Dados
 Teste de Hipóteses
 - Teste Qui-quadrado
 - Teste de Proporções (z-test)
-- Regressão Logística 
+- Regressão Logística
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bemoraesp27/mvp_ciencia_e_analise_de_dados/blob/main/mvp_acidentes.ipynb)
+
+
 
 
 
