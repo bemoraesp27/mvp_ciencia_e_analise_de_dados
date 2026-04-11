@@ -44,15 +44,15 @@ Análise de Dados:
 - Distribuição de Atributos
 - Tratamento de Valores nulos
 
-  Pré Processamento de Dados
-  - Discretização
-  - Feature Engineering
-  - Padronização
+Pré Processamento de Dados
+- Discretização
+- Feature Engineering
+- Padronização
  
-  Teste de Hipóteses
-   - Teste Qui-quadrado
-   - Teste de Proporções (z-test)
-   - Regressão Logística 
+Teste de Hipóteses
+- Teste Qui-quadrado
+- Teste de Proporções (z-test)
+- Regressão Logística 
 
 
 
